@@ -1,6 +1,3 @@
-# Frontend Mentor - Order summary card
-
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -122,7 +119,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="" alt="logo" width="140"  height="auto" />
+  <img src="./design/desktop-preview.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Order Summary Card</b></h3>
