@@ -101,20 +101,6 @@ To do this challenge, you need a basic understanding of HTML, CSS and JavaScript
   git clone https://github.com/skyv26/Order-summary-component.git
 
 ```
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
 ```
