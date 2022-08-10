@@ -33,11 +33,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Order Summary Card <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Order summary card** is a vanilla-js newbie project took as a challenge from frontend mentor platform at the inital stage of web development during my learning.
 
 ## 🛠 Built With <a name="built-with"></a>
 
