@@ -99,6 +99,7 @@ To do this challenge, you need a basic understanding of HTML, CSS and JavaScript
 ```sh
   cd DESIRED_FOLDER
   git clone https://github.com/skyv26/Order-summary-component.git
+  
 ```
 
 ### Install
