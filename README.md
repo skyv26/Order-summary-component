@@ -1,8 +1,3 @@
-
-**Have fun building!** 🚀
-
-<a name="readme-top"></a>
-
 <!--
 !!! IMPORTANT !!!
 This README is an example of how you could professionally present your codebase. 
