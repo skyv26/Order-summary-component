@@ -99,7 +99,7 @@ To do this challenge, you need a basic understanding of HTML, CSS and JavaScript
 ```sh
   cd DESIRED_FOLDER
   git clone https://github.com/skyv26/Order-summary-component.git
-  
+
 ```
 
 ### Install
@@ -117,16 +117,10 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
 ```
---->
-
+Please use the VSCode and with the help of live
+server extension run it directly.
+```
 ### Run tests
 
 To run tests, run the following command:
