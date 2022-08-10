@@ -173,7 +173,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank [Frontend Mentor](https://www.frontendmentor.io) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
