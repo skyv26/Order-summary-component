@@ -31,15 +31,11 @@
 
 # 📖 Order Summary Card <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Order summary card** is a vanilla-js newbie project took as a challenge from frontend mentor platform at the inital stage of web development during my learning.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>HTML</summary>
@@ -59,8 +55,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Semantic HTML5 markup**
 - **CSS custom properties**
 - **Flexbox**
@@ -71,8 +65,6 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - Comming soon 🎈
 
@@ -115,9 +107,6 @@ You can deploy this project using gh-pages or other platforms like vercel.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-
 👤 **Aakash Verma**
 
 - GitHub: [@skyv26](https://github.com/skyv26)
@@ -130,8 +119,6 @@ You can deploy this project using gh-pages or other platforms like vercel.
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Add more breakpoints to make it responsive**
 
@@ -151,8 +138,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, show your support by giving a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -160,8 +145,6 @@ If you like this project, show your support by giving a star.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank [Frontend Mentor](https://www.frontendmentor.io) 
 
