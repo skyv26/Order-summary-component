@@ -106,8 +106,6 @@ body {
   font-size: 0.8rem;
   font-weight: 900;
   letter-spacing: -0.5px;
-  /* text-decoration: none; */
-  /* justify-self: flex-end; */
 }
 
 .btn {
@@ -152,7 +150,6 @@ body {
 @media (min-width: 86em) {
   .card-component {
     width: 34vw;
-    /* height: 70vh; */
     border-radius: 45px;
   }
   .card-content {
